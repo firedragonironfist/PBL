@@ -1,14 +1,10 @@
 import React from "react";
 import './App.css';
-import Home from './pages/Home.css'
-
+import Nav from './component/Nav.js';
 function App() {
   return (
-    <div className="App">
-      <h1>Our PBL Project</h1>
-      <Home />
-    </div>
-  );
+    <Nav></Nav>
+    );
 }
 
 export default App;
