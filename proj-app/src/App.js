@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from "react";
 import './App.css';
 import Nav from './component/Nav.js';
 function App() {
