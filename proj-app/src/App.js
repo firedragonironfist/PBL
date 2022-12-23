@@ -11,12 +11,39 @@ function App() {
     <div class="dropdown">
       <button class="link">Area</button>
       <div class="dropdown-menu">
-        <form>
-          <a type= "button" id='state' href="PBL\proj-app\src\component\samplepage.js">Andhra</a>
-          <a id='state'>Karnataka</a>
-        </form>
-       {/* <a id='state' href="https://www.google.com/">Andhra</a>
-       <a id='state'>Karnataka</a>  */}
+
+        <div class="dropdown-links">
+        <a href="proj-app\src\component\page.html">Andhra Pradesh</a>
+        <a href="proj-app\src\component\page.html">Arunachal Pradesh</a>
+        <a>Assam</a>
+        <a>Bihar</a>
+        <a>Chhattisgarh</a>
+        <a>Goa</a>
+        <a>Gujarat</a>
+        <a>Haryana</a>
+        <a>Himachal Pradesh</a>
+        <a>Jharkhand</a>
+        <a>Karnataka</a>
+        <a>Kerala</a>
+        <a>Madhya Pradesh</a>
+        <a>Maharashtra</a>
+        <a>Manipur</a>
+        <a>Meghalaya</a>
+        <a>Mizoram</a>
+        <a>Nagaland</a>
+        <a>Odisha</a>
+        <a>Punjab</a>
+        <a>Rajasthan</a>
+        <a>Sikkim</a>
+        <a>Tamil Nadu</a>
+        <a>Telangana</a>
+        <a>Tripura</a>
+        <a>Uttar Pradesh</a>
+        <a>Uttarakhand</a>
+        <a>West Bengal</a>
+
+        </div>
+
       </div>
     </div>
     </body>
