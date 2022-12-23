@@ -1,4 +1,4 @@
-import './nav.css'
+import './Nav/Nav.css'
 import { useState,useEffect } from 'react';
 
 
@@ -8,7 +8,7 @@ const Nav =() =>{
     
     return(<section>
         <div className="nav_left">
-            <img className='logo' src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"></img>            
+            <img className='logo' src="https://cdn.logojoy.com/wp-content/uploads/2018/07/30100631/security1.png"></img>            
         </div>
     </section>);
 }

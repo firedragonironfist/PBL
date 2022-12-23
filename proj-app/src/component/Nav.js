@@ -1,4 +1,4 @@
-import './Nav.css'
+import './Nav/Nav.css'
 import { useState,useEffect } from 'react';
 
 
