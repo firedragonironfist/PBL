@@ -8,7 +8,7 @@ const Nav =() =>{
     
     return(<section>
         <div className="nav_left">
-            <img className='logo' src="./component/logo/dot.jpg"></img>            
+            <title>Safe Grounds</title>            
         </div>
     </section>);
 }
