@@ -11,6 +11,7 @@ function App() {
     <div class="dropdown">
       <button class="link">Area</button>
       <div class="dropdown-menu">
+
         <div class="dropdown-links">
         <a href="proj-app\src\component\page.html">Andhra Pradesh</a>
         <a href="proj-app\src\component\page.html">Arunachal Pradesh</a>
@@ -42,6 +43,7 @@ function App() {
         <a>West Bengal</a>
 
         </div>
+
       </div>
     </div>
     </body>
