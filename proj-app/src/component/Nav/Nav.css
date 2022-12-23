@@ -21,12 +21,7 @@ section{
     background-color: #333;
 }
 
-.logo{
-    height: 2.5rem;
-    position: center;
-    position: flex;
 
-}
 .nav-link a:hover{
     color:#818181;
 }
