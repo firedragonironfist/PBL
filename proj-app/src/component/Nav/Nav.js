@@ -8,7 +8,7 @@ const Nav =() =>{
     
     return(<section>
         <div className="nav_left">
-            <img className='logo' src="https://cdn.logojoy.com/wp-content/uploads/2018/07/30100631/security1.png"></img>            
+            <title>Safe Grounds</title>            
         </div>
     </section>);
 }

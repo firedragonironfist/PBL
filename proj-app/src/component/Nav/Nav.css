@@ -25,3 +25,8 @@ section{
 .nav-link a:hover{
     color:#818181;
 }
+title{
+    color: #818181;
+    text-align: center;
+    display: block;
+}
