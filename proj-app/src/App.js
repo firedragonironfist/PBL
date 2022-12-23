@@ -11,7 +11,8 @@ function App() {
     <div class="dropdown">
       <button class="link">Area</button>
       <div class="dropdown-menu">
-        Dropdown content
+       <a id='state'>Andhra</a>
+       <a id='state'>Karnataka</a> 
       </div>
     </div>
     </body>
